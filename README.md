@@ -5,12 +5,14 @@
 - 🧠 Active on TryHackMe & HackTheBox to sharpen my skills  
 - 💻 Comfortable with Python, Linux, and scripting tools   
 
-###
+<br>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ANTARTICA1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ANTARTICA1&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTARTICA1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTARTICA1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
+<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ANTARTICA1&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -20,6 +22,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+<br>
 
 <h3 align="left">🧰 Languages & Tools:</h3>
 
