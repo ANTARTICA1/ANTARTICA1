@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="left">🌐 Connect with Me</h3>
+<h3 align="left">Connect with Me</h3>
 <div align="left">
   <a href="https://www.instagram.com/Gungkrisnaa._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&amp;logo=instagram&amp;label=&amp;color=E4405F&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="instagram logo"  />
@@ -38,7 +38,7 @@
 
 <br><br>
 
-<h3 align="left">🧰 Tech Stack & Tools</h3>
+<h3 align="left">Tech Stack & Tools</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
@@ -62,7 +62,7 @@
 
 <br><br>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=ANTARTICA1&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=ANTARTICA1&amp;theme=radical&amp;hide_border=false" alt="GitHub Streak" />
@@ -82,7 +82,7 @@
 
 <br>
 
-<h3 align="left">👾 Activity Graph</h3>
+<h3 align="left">Activity Graph</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANTARTICA1/ANTARTICA1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANTARTICA1/ANTARTICA1/output/pacman-contribution-graph.svg">
